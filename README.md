@@ -3,4 +3,5 @@
 ==
 
 Veriyi Ayrıştıran, Türkçeye Çeviren ve Görsel haritaya entegre eden<br>
-<b>İsmail Döndü</b>
+<b>İsmail Döndü</b><br>
+https://ismailfp.github.io/turkiyeterorveritabani.github.io/
