@@ -2,5 +2,5 @@
 1970 ile 2019 arasında gerçekleşen 4297 terör vakasının detaylarının şehir bazlı haritaya yansıtılmış halidir.
 ==
 
-Veriyi Ayrıştıran, Türkçeye Çeviren ve Görsel haritaya entegre eden
+Veriyi Ayrıştıran, Türkçeye Çeviren ve Görsel haritaya entegre eden<br>
 <b>İsmail Döndü</b>
